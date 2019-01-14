@@ -1,0 +1,33 @@
+{
+  "name": "nobita-init",
+  "version": "0.0.1",
+  "description": "nobita-init",
+  "main": "lib/nobita-init.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/iamtang/nobita.git"
+  },
+  "keywords": [
+    "koa",
+    "nobita",
+    "nobita-init"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamtang/nobita/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
